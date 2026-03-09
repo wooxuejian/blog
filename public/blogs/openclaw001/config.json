@@ -1,0 +1,10 @@
+{
+  "title": "使用开源三件套OpenClaw+Ollama+1Panel部署7×24运行",
+  "tags": [
+    "OpenClaw"
+  ],
+  "date": "2026-03-01T19:31",
+  "summary": "本次操作教程将以开源 Linux 服务器 运维面板 1Panel 为基础，搭配 Ollama 本地大模型（无需担心 Token 消耗费用），手把手教你部署 OpenClaw 个人 AI 助理，实现 7×24 小时稳定运行，轻松拥有专属智能助手！",
+  "hidden": false,
+  "category": "总结"
+}
